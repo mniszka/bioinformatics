@@ -1,4 +1,5 @@
 # count how many nucleotides (A, T, C, G) are in the DNA sequence
+# https://rosalind.info/problems/dna/
 
 def count_nucleotides(dna_sequence):
   A = dna_sequence.count("A")
