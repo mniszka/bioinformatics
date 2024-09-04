@@ -18,4 +18,4 @@ if __name__ == "__main__":
   A, T, C, G = count_nucleotides(dna_sequence)
   print(f"A: {A}, T: {T}, C: {C}, G: {G}")
 
-#output: A: 216, T: 208, C: 205, G: 226
+
