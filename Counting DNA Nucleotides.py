@@ -1,4 +1,4 @@
-# count how many nucleotides (A, T, C, G) are in the DNA sequence
+# count how many nucleotides (A- adenine, T- thymine, C- cytosine, G- guanine) are in the DNA sequence
 # https://rosalind.info/problems/dna/
 
 def count_nucleotides(dna_sequence):
